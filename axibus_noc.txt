@@ -1,0 +1,13 @@
+https://anysilicon.com/understanding-amba-bus-architecture-protocols/
+
+Very good AXI and bus lecture from MIT:
+https://web.mit.edu/6.111/volume2/www/f2019/handouts/L13_4.pdf
+https://caslab.csl.yale.edu/courses/EENG428/19-20a/slides/eeng428_lecture_007_axi_protocol.pdf
+http://courses.ece.ubc.ca/579/system_bus_noc.pdf
+This one is also very good:
+http://users.ece.utexas.edu/~gerstl/ee382v_f14/lectures/lecture_12.pdf
+
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjs26O8isPxAhWUCTQIHXY-B-YQFjAMegQIFxAD&url=https%3A%2F%2Fdeveloper.arm.com%2F-%2Fmedia%2FArm%2520Developer%2520Community%2FPDF%2FLearn%2520the%2520Architecture%2F102202_0100_01_Introduction_to_AMBA_AXI.pdf%3Frevision%3D369ad681-f926-47b0-81be-42813d39e132&usg=AOvVaw0Ec4ldHKiyXzuc0QMWcfGq
+
+https://developer.arm.com/-/media/Arm%20Developer%20Community/PDF/Learn%20the%20Architecture/102202_0100_01_Introduction_to_AMBA_AXI.pdf?revision=369ad681-f926-47b0-81be-42813d39e132
